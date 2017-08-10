@@ -1,0 +1,2 @@
+added index.php and composer.json also changed Default.html to home.html
+made these changes so that the website will work with heroku
